@@ -13,7 +13,7 @@ namespace gameScript
         static void Main(string[] args)
         {
         
-            Vector2 worldSize = new Vector2(40, 30);
+            Vector2 worldSize = new Vector2(4, 4);
             Vector2 position = new Vector2(worldSize.x/2, worldSize.y/2);
             
             char player = '*';
@@ -21,8 +21,6 @@ namespace gameScript
             Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Black;
             CreateGame.PaintGame(position, player, worldSize);
-            Console.BackgroundColor = ConsoleColor.Black;
-            Console.ForegroundColor = ConsoleColor.White;
             Console.ReadLine();
         }
     }
