@@ -1,0 +1,15 @@
+C:\Users\nikgon07\OneDrive - Tysvær kommune\Desktop\VSCode is beautiful\csharp\gameScript\bin\Debug\net6.0\gameScript.exe
+C:\Users\nikgon07\OneDrive - Tysvær kommune\Desktop\VSCode is beautiful\csharp\gameScript\bin\Debug\net6.0\gameScript.deps.json
+C:\Users\nikgon07\OneDrive - Tysvær kommune\Desktop\VSCode is beautiful\csharp\gameScript\bin\Debug\net6.0\gameScript.runtimeconfig.json
+C:\Users\nikgon07\OneDrive - Tysvær kommune\Desktop\VSCode is beautiful\csharp\gameScript\bin\Debug\net6.0\gameScript.dll
+C:\Users\nikgon07\OneDrive - Tysvær kommune\Desktop\VSCode is beautiful\csharp\gameScript\bin\Debug\net6.0\ref\gameScript.dll
+C:\Users\nikgon07\OneDrive - Tysvær kommune\Desktop\VSCode is beautiful\csharp\gameScript\bin\Debug\net6.0\gameScript.pdb
+C:\Users\nikgon07\OneDrive - Tysvær kommune\Desktop\VSCode is beautiful\csharp\gameScript\obj\Debug\net6.0\gameScript.csproj.AssemblyReference.cache
+C:\Users\nikgon07\OneDrive - Tysvær kommune\Desktop\VSCode is beautiful\csharp\gameScript\obj\Debug\net6.0\gameScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgon07\OneDrive - Tysvær kommune\Desktop\VSCode is beautiful\csharp\gameScript\obj\Debug\net6.0\gameScript.AssemblyInfoInputs.cache
+C:\Users\nikgon07\OneDrive - Tysvær kommune\Desktop\VSCode is beautiful\csharp\gameScript\obj\Debug\net6.0\gameScript.AssemblyInfo.cs
+C:\Users\nikgon07\OneDrive - Tysvær kommune\Desktop\VSCode is beautiful\csharp\gameScript\obj\Debug\net6.0\gameScript.csproj.CoreCompileInputs.cache
+C:\Users\nikgon07\OneDrive - Tysvær kommune\Desktop\VSCode is beautiful\csharp\gameScript\obj\Debug\net6.0\gameScript.dll
+C:\Users\nikgon07\OneDrive - Tysvær kommune\Desktop\VSCode is beautiful\csharp\gameScript\obj\Debug\net6.0\ref\gameScript.dll
+C:\Users\nikgon07\OneDrive - Tysvær kommune\Desktop\VSCode is beautiful\csharp\gameScript\obj\Debug\net6.0\gameScript.pdb
+C:\Users\nikgon07\OneDrive - Tysvær kommune\Desktop\VSCode is beautiful\csharp\gameScript\obj\Debug\net6.0\gameScript.genruntimeconfig.cache
