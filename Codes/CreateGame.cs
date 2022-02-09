@@ -12,9 +12,10 @@ namespace gameScript.Codes
             for (int j=0; j < WorldSize.y; j++) {
                 for (int i=0; i < WorldSize.x; i++) {
                     Console.Write("  ");
-                    if (i == Position.x) {
+                    if (i == Position.x - 1) {
                         if (j == Position.y) {
-                            Console.Write(Player);
+                            Console.Write(Player + " ");
+                            i += 1;
                         }
                     }
                 }
