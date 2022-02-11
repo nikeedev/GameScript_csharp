@@ -9,14 +9,13 @@ namespace gameScript
 {
     public class Program
     {
-        
         static void Main(string[] args)
         {
-        
+            
             Vector2 worldSize = new Vector2(4, 4);
             Vector2 position = new Vector2(worldSize.x/2, worldSize.y/2);
             
-            char player = '*';
+            string player = "#";
 
             Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Black;
@@ -24,6 +23,4 @@ namespace gameScript
             Console.ReadLine();
         }
     }
-
-    
 }
