@@ -3,25 +3,25 @@ using System.Text;
 using System.Linq;
 using System.Collections.Generic;
 
-namespace gameScript.Codes
+namespace GameScript.Codes
 {
     public class Vector2 {
 
         /// <summary>
-        /// This is X value which can be used for widht
+        /// This is X value which can be used for width
         /// </summary>
-        public float x { get; set; }
+        public int x { get; set; }
 
         /// <summary>
-        /// This is Y value which can be used for heigth
+        /// This is Y value which can be used for height
         /// </summary>
-        public float y { get; set; }
+        public int y { get; set; }
 
 
         /// <summary>
-        /// This data type has two values: x and y axes
+        /// This data type has two values: x and y axis
         /// </summary>
-        public Vector2(float x, float y) {
+        public Vector2(int x, int y) {
             this.x = x;
             this.y = y;
         }

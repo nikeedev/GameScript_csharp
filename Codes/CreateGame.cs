@@ -3,23 +3,23 @@ using System.Text;
 using System.Linq;
 using System.Collections.Generic;
 
-namespace gameScript.Codes
+namespace GameScript.Codes
 {    
     public class CreateGame
     {
 
-        public static string VersionNow = "v.0.0.4"; 
+        public static string VersionNow = "0.0.4"; 
 
 
-        public static void PaintGame(Vector2 Position, string Player, Vector2 WorldSize) {
-            string spaces = new string(' ', Player.Length);
-            Console.Title = "                        {                                                             GameScript::Paint -------------  "+VersionNow+"                                                            }       ";
-            for (int j=0; j < WorldSize.y; j++) {
-                for (int i=0; i < WorldSize.x; i++) {
+        public static void PaintGame(Vector2 position, string player, Vector2 worldSize) {
+            string spaces = new string(' ', player.Length);
+            Console.Title = "                        {                                                             GameScript::Paint -------------  v"+VersionNow+"                                                            }       ";
+            for (int j=0; j < worldSize.y; j++) {
+                for (int i=0; i < worldSize.x; i++) {
                     Console.Write("  ");
-                    if (i == Position.x - 1) {
-                        if (j == Position.y) {
-                            Console.Write(Player + spaces);
+                    if (i == position.x - 1) {
+                        if (j == position.y) {
+                            Console.Write(player + spaces);
                             i += 1;
                         }
                     }
