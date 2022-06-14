@@ -8,7 +8,7 @@ namespace GameScript.Codes
     public class CreateGame
     {
 
-        public static string VersionNow = "0.0.4"; 
+        public static string VersionNow = "1.2.0"; 
 
 
         public static void PaintGame(Vector2 position, string player, Vector2 worldSize) {
